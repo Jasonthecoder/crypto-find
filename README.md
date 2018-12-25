@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Install npm in ur pc and  run npm -i in the folder.
 
 ## Available Scripts
 
